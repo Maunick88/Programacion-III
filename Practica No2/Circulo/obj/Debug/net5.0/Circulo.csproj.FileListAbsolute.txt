@@ -1,0 +1,16 @@
+C:\Users\mauni\OneDrive\Documentos\Informatica zoomestre 3\Programacion\Circulo\Circulo\obj\Debug\net5.0\Circulo.csproj.AssemblyReference.cache
+C:\Users\mauni\OneDrive\Documentos\Informatica zoomestre 3\Programacion\Circulo\Circulo\obj\Debug\net5.0\Circulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mauni\OneDrive\Documentos\Informatica zoomestre 3\Programacion\Circulo\Circulo\obj\Debug\net5.0\Circulo.AssemblyInfoInputs.cache
+C:\Users\mauni\OneDrive\Documentos\Informatica zoomestre 3\Programacion\Circulo\Circulo\obj\Debug\net5.0\Circulo.AssemblyInfo.cs
+C:\Users\mauni\OneDrive\Documentos\Informatica zoomestre 3\Programacion\Circulo\Circulo\obj\Debug\net5.0\Circulo.csproj.CoreCompileInputs.cache
+C:\Users\mauni\OneDrive\Documentos\Informatica zoomestre 3\Programacion\Circulo\Circulo\bin\Debug\net5.0\Circulo.exe
+C:\Users\mauni\OneDrive\Documentos\Informatica zoomestre 3\Programacion\Circulo\Circulo\bin\Debug\net5.0\Circulo.deps.json
+C:\Users\mauni\OneDrive\Documentos\Informatica zoomestre 3\Programacion\Circulo\Circulo\bin\Debug\net5.0\Circulo.runtimeconfig.json
+C:\Users\mauni\OneDrive\Documentos\Informatica zoomestre 3\Programacion\Circulo\Circulo\bin\Debug\net5.0\Circulo.runtimeconfig.dev.json
+C:\Users\mauni\OneDrive\Documentos\Informatica zoomestre 3\Programacion\Circulo\Circulo\bin\Debug\net5.0\Circulo.dll
+C:\Users\mauni\OneDrive\Documentos\Informatica zoomestre 3\Programacion\Circulo\Circulo\bin\Debug\net5.0\ref\Circulo.dll
+C:\Users\mauni\OneDrive\Documentos\Informatica zoomestre 3\Programacion\Circulo\Circulo\bin\Debug\net5.0\Circulo.pdb
+C:\Users\mauni\OneDrive\Documentos\Informatica zoomestre 3\Programacion\Circulo\Circulo\obj\Debug\net5.0\Circulo.dll
+C:\Users\mauni\OneDrive\Documentos\Informatica zoomestre 3\Programacion\Circulo\Circulo\obj\Debug\net5.0\ref\Circulo.dll
+C:\Users\mauni\OneDrive\Documentos\Informatica zoomestre 3\Programacion\Circulo\Circulo\obj\Debug\net5.0\Circulo.pdb
+C:\Users\mauni\OneDrive\Documentos\Informatica zoomestre 3\Programacion\Circulo\Circulo\obj\Debug\net5.0\Circulo.genruntimeconfig.cache
